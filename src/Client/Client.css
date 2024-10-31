@@ -1,0 +1,100 @@
+
+/*-------table desiging----------*/
+.client-header{
+    margin-top: -2%;
+    background-color: rgb(240,242,245);
+}
+
+.add-button
+{
+    margin-left: 87% !important;
+}
+.Completed-style
+{
+    color: green;
+    border: 2px solid green;
+    padding: 2%;
+    border-radius: 2px;
+    font-weight: bold;
+    width: 73px;
+    text-align: center;
+}
+.Current-style
+{
+    
+    border: 2px solid yellow;
+    padding: 2%;
+    border-radius: 2px;
+    font-weight: bold;
+    width: 73px;
+    text-align: center;
+}
+
+.Cancelled-style
+{
+    color: red;
+    border: 2px solid red;
+    padding: 2%;
+    border-radius: 2px;
+    font-weight: bold;
+    width: 73px;
+    text-align: center;
+}
+
+/* .gridbot{
+    text-align: justify;
+} */
+
+.css-r11z79-MuiDataGrid-root
+{
+    /* font-family: 'sanserif' !important; */
+    background-color: aliceblue !important;
+
+}
+
+
+/* ---------dialoguebox width-------------- */
+.css-hz1bth-MuiDialog-container {
+
+    width: 600px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: auto !important;
+
+}
+
+/*-------Add client Dailoguebox-------*/
+.viewclose{
+    position: relative;
+    bottom: 351px;
+    left: 371px;
+    font-weight: bold;
+}
+
+.css-1633um2-MuiPaper-root {
+    box-shadow: none !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper
+{
+    width: 600px !important;
+}
+
+span
+{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+/* view dialogue box alignment */
+.gridbot{
+    box-shadow: none !important;
+}
+
+/* number using without scroable */
+
+input::-webkit-outer-spin-button, 
+input::-webkit-inner-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
